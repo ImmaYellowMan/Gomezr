@@ -8,7 +8,7 @@ public class Word
 { 
     public string word;
     private int typeIndex;
-    public int score; 
+    
 
     public WordDisplay display;
 
@@ -39,7 +39,7 @@ public class Word
         if (wordTyped)
         {
             display.RemoveWord();
-            score++;
+            
         }
         return wordTyped;
        
