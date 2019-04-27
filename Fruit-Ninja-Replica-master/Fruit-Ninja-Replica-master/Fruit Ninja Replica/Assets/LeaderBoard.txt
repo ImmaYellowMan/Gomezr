@@ -1,0 +1,7 @@
+ian,420
+bob,530
+tom,100
+Mom,370
+AAA,580
+RIG,230
+Dad,300
